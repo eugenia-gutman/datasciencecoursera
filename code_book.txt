@@ -1,0 +1,74 @@
+Output file, tidy_data.txt contains 68 variables.
+
+Variable description:
+
+subject				-	subject id
+activity			-	activity type
+tBodyAcc_mean_X_avg		-	average of tBodyAcc-mean()-X
+tBodyAcc_mean_Y_avg		-	average of tBodyAcc-mean()-Y
+tBodyAcc_mean_Z_avg		-	average of tBodyAcc-mean()-Z
+tBodyAcc_std_X_avg		-	average of tBodyAcc-std()-X
+tBodyAcc_std_Y_avg		-	average of tBodyAcc-std()-Y
+tBodyAcc_std_Z_avg		-	average of tBodyAcc-std()-Z
+tGravityAcc_mean_X_avg		-	average of tGravityAcc-mean()-X
+tGravityAcc_mean_Y_avg		-	average of tGravityAcc-mean()-Y
+tGravityAcc_mean_Z_avg		-	average of tGravityAcc-mean()-Z
+tGravityAcc_std_X_avg		-	average of tGravityAcc-std()-X
+tGravityAcc_std_Y_avg		-	average of tGravityAcc-std()-Y
+tGravityAcc_std_Z_avg		-	average of tGravityAcc-std()-Z
+tBodyAccJerk_mean_X_avg		-	average of tBodyAccJerk-mean()-X
+tBodyAccJerk_mean_Y_avg		-	average of tBodyAccJerk-mean()-Y
+tBodyAccJerk_mean_Z_avg		-	average of tBodyAccJerk-mean()-Z
+tBodyAccJerk_std_X_avg		-	average of tBodyAccJerk-std()-X
+tBodyAccJerk_std_Y_avg		-	average of tBodyAccJerk-std()-Y
+tBodyAccJerk_std_Z_avg		-	average of tBodyAccJerk-std()-Z
+tBodyGyro_mean_X_avg		-	average of tBodyGyro-mean()-X
+tBodyGyro_mean_Y_avg		-	average of tBodyGyro-mean()-Y
+tBodyGyro_mean_Z_avg		-	average of tBodyGyro-mean()-Z
+tBodyGyro_std_X_avg		-	average of tBodyGyro-std()-X
+tBodyGyro_std_Y_avg		-	average of tBodyGyro-std()-Y
+tBodyGyro_std_Z_avg		-	average of tBodyGyro-std()-Z
+tBodyGyroJerk_mean_X_avg	-	average of tBodyGyroJerk-mean()-X
+tBodyGyroJerk_mean_Y_avg	-	average of tBodyGyroJerk-mean()-Y
+tBodyGyroJerk_mean_Z_avg	-	average of tBodyGyroJerk-mean()-Z
+tBodyGyroJerk_std_X_avg		-	average of tBodyGyroJerk-std()-X
+tBodyGyroJerk_std_Y_avg		-	average of tBodyGyroJerk-std()-Y
+tBodyGyroJerk_std_Z_avg		-	average of tBodyGyroJerk-std()-Z
+tBodyAccMag_mean_avg		-	average of tBodyAccMag-mean()
+tBodyAccMag_std_avg		-	average of tBodyAccMag-std()
+tGravityAccMag_mean_avg		-	average of tGravityAccMag-mean()
+tGravityAccMag_std_avg		-	average of tGravityAccMag-std()
+tBodyAccJerkMag_mean_avg	-	average of tBodyAccJerkMag-mean()
+tBodyAccJerkMag_std_avg		-	average of tBodyAccJerkMag-std()
+tBodyGyroMag_mean_avg		-	average of tBodyGyroMag-mean()
+tBodyGyroMag_std_avg		-	average of tBodyGyroMag-std()
+tBodyGyroJerkMag_mean_avg	-	average of tBodyGyroJerkMag-mean()
+tBodyGyroJerkMag_std_avg	-	average of tBodyGyroJerkMag-std()
+fBodyAcc_mean_X_avg		-	average of fBodyAcc-mean()-X
+fBodyAcc_mean_Y_avg		-	average of fBodyAcc-mean()-Y
+fBodyAcc_mean_Z_avg		-	average of fBodyAcc-mean()-Z
+fBodyAcc_std_X_avg		-	average of fBodyAcc-std()-X
+fBodyAcc_std_Y_avg		-	average of fBodyAcc-std()-Y
+fBodyAcc_std_Z_avg		-	average of fBodyAcc-std()-Z
+fBodyAccJerk_mean_X_avg		-	average of fBodyAccJerk-mean()-X
+fBodyAccJerk_mean_Y_avg		-	average of fBodyAccJerk-mean()-Y
+fBodyAccJerk_mean_Z_avg		-	average of fBodyAccJerk-mean()-Z
+fBodyAccJerk_std_X_avg		-	average of fBodyAccJerk-std()-X
+fBodyAccJerk_std_Y_avg		-	average of fBodyAccJerk-std()-Y
+fBodyAccJerk_std_Z_avg		-	average of fBodyAccJerk-std()-Z
+fBodyGyro_mean_X_avg		-	average of fBodyGyro-mean()-X
+fBodyGyro_mean_Y_avg		-	average of fBodyGyro-mean()-Y
+fBodyGyro_mean_Z_avg		-	average of fBodyGyro-mean()-Z
+fBodyGyro_std_X_avg		-	average of fBodyGyro-std()-X
+fBodyGyro_std_Y_avg		-	average of fBodyGyro-std()-Y
+fBodyGyro_std_Z_avg		-	average of fBodyGyro-std()-Z
+fBodyAccMag_mean_avg		-	average of fBodyAccMag-mean()
+fBodyAccMag_std_avg		-	average of fBodyAccMag-std()
+fBodyBodyAccJerkMag_mean_avg	-	average of fBodyBodyAccJerkMag-mean()
+fBodyBodyAccJerkMag_std_avg	-	average of fBodyBodyAccJerkMag-std()
+fBodyBodyGyroMag_mean_avg	-	average of fBodyBodyGyroMag-mean()
+fBodyBodyGyroMag_std_avg	-	average of fBodyBodyGyroMag-std()
+fBodyBodyGyroJerkMag_mean_avg	-	average of fBodyBodyGyroJerkMag-mean()
+fBodyBodyGyroJerkMag_std_avg	-	average of fBodyBodyGyroJerkMag-std()
+
+
